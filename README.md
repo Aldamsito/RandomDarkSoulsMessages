@@ -1,5 +1,5 @@
 # RandomDarkSoulsMessages
-This is random messages generator using the message system' words and phrases from the first Dark Souls game.
+This is a random messages generator using the message system' words and phrases from the first Dark Souls game.
 
 It implements JQuery library to manipulate the html elements.
 
